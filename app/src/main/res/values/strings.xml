@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Shayri</string>
+
+
+
+    <string-array name="name">
+        <item>Motiviional</item>
+        <item>Life</item>
+        <item>Loves</item>
+        <item>Positive</item>
+        <item>Friendship</item>
+    </string-array>
+</resources>
