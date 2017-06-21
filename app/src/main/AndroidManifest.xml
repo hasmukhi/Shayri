@@ -18,6 +18,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".Listactivity"></activity>
+        <activity android:name=".Quotes"></activity>
     </application>
 
 </manifest>
